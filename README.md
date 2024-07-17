@@ -1,2 +1,2 @@
-<h1>This is a fully responsive web-page</h1>
+<h3>This is a fully responsive web-page</h3>
 
